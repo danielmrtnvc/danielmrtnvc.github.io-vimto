@@ -69,3 +69,11 @@ $(window).load(function(){
     $('.preloader-wrap').fadeOut();
     $('body').removeClass('preloader-site');
 });
+
+
+//Href anchor smooth scrolling, disables back button to slide back
+//$('a[href*=\\#]').on('click', function(event){     
+//    event.preventDefault();
+//    $('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
+//});
+

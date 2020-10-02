@@ -2,6 +2,10 @@
 /*=====================================*/
 /*-- :::: Section Padding Spacing :::: --*/
 /*=====================================*/
+
+/*Native way to do href scrolling, keeps back button to slide back*/
+html{scroll-behavior:smooth}
+
 .section-padding-bottom {
   padding-bottom: 50px;
 }
