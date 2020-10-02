@@ -22268,20 +22268,20 @@ p {
 }
 
 .circle-bg-1 {
-  background: #fc5c65;
+  background: #8BBEDD;
 }
 
 .circle-bg-1.outer-circle {
   position: relative;
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
-  background: rgba(252, 92, 101, 0.06);
+  background: rgba(139, 190, 221, 0.06);
 }
 
 .circle-bg-1.outer-circle:before {
   content: '';
   position: absolute;
-  border: rgba(252, 92, 101, 0.08) solid 6px;
+  border: rgba(139, 190, 221, 0.08) solid 6px;
   border-radius: 500px;
   right: 0;
   bottom: 0;
@@ -22299,13 +22299,13 @@ p {
   position: relative;
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
-  background: rgba(80, 227, 194, 0.06);
+  background: rgba(99,167,209, 0.06);
 }
 
 .circle-bg-2.outer-circle:before {
   content: '';
   position: absolute;
-  border: rgba(80, 227, 194, 0.08) solid 6px;
+  border: rgba(99,167,209, 0.08) solid 6px;
   border-radius: 500px;
   right: 0;
   bottom: 0;
@@ -22316,11 +22316,11 @@ p {
 }
 
 .circle-bg-3 {
-  background: #a665fb;
+  background: #2886C0;
 }
 
 .circle-bg-3.outer-circle {
-  background: rgba(166, 101, 251, 0.06);
+  background: rgba(40,134,192, 0.06);
   position: relative;
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
@@ -22329,7 +22329,7 @@ p {
 .circle-bg-3.outer-circle:before {
   content: '';
   position: absolute;
-  border: rgba(166, 101, 251, 0.08) solid 6px;
+  border: rgba(40,134,192, 0.08) solid 6px;
   border-radius: 500px;
   right: 0;
   bottom: 0;
